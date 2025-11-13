@@ -117,11 +117,11 @@ $sm = AppManager::getSM();
                                         </g>
                                     </svg>
                                 </span>
-                                <span class="app-brand-text demo text-body fw-bolder">TCD Clinic</span>
+                                <span class="app-brand-text demo text-body fw-bolder">toothcare</span>
                             </a>
                         </div>
                         <!-- /Logo -->
-                        <h4 class="mb-2">Welcome to TCD Clinic👋</h4>
+                        <h4 class="mb-2">Welcome to toothcare👋</h4>
                         <p class="mb-4">Please sign-in to your account and start the adventure</p>
 
                         <?php
